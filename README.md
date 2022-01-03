@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![hannahf97's github stats](https://github-readme-stats.vercel.app/api?username=hannahf97&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![hannahf97's github stats](https://github-readme-stats.vercel.app/api?username=hannahf97&show_icons=true&theme=merko)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahf97)](https://github.com/hannahf97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahf97&layout=compact&theme=merko)]
 
 <!--
 **hannahf97/hannahf97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
