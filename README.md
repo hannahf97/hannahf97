@@ -1,4 +1,4 @@
-### Hi there 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=Header)
 
 ![hannahf97's github stats](https://github-readme-stats.vercel.app/api?username=hannahf97&hide=stars&show_icons=true&theme=merko)
 
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="http://mazandi.herokuapp.com/api?handle={hannahf97}&theme=warm"/>
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
