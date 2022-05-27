@@ -17,7 +17,7 @@
   ![java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
   ![kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=flat-square&logo=Kotlin&logoColor=white)
   <br>
-  ![nodejs](https://img.shields.io/badge/Nodejs-339933.svg?&style=flat-square&logo=nodejs&logoColor=white)
+  ![nodejs](https://img.shields.io/badge/nodejs-339933.svg?&style=flat-square&logo=nodejs&logoColor=white)
   ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=SQLite&logoColor=white)
   ![mongodb](https://img.shields.io/badge/mongodb-47A248.svg?&style=flat-square&logo=mongodb&logoColor=white)
