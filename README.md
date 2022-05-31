@@ -36,5 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+  <br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahf97)](https://github.com/hannahf97/github-readme-stats)
 
 </div>
