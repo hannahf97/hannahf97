@@ -13,9 +13,9 @@
   ![css](https://img.shields.io/badge/css-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white)
   ![javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat-square&logo=Javascript&logoColor=white)
   ![react](https://img.shields.io/badge/react-61DAFB.svg?&style=flat-square&logo=Javascript&logoColor=white)
-  ![android](https://img.shields.io/badge/Android-3DDC84.svg?&style=flat-square&logo=Android&logoColor=white)
   ![java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
   ![kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=flat-square&logo=Kotlin&logoColor=white)
+  ![android](https://img.shields.io/badge/Android-3DDC84.svg?&style=flat-square&logo=Android&logoColor=white)
   <br>
   ![nodejs](https://img.shields.io/badge/nodejs-339933.svg?&style=flat-square&logo=nodejs&logoColor=white)
   ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white)
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahf97)](https://github.com/hannahf97/github-readme-stats)
+  <br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahf97&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
