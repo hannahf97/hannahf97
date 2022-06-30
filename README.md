@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 -->
 
   <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahf97&layout=compact&theme=merko&hide=jupyter%20notebook)](https://github.com/hannahf97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahf97&layout=compact&theme=merko&hide=pug&hide=jupyter%20notebook)](https://github.com/hannahf97/github-readme-stats)
 
 </div>
